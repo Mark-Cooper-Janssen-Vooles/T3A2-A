@@ -1,18 +1,17 @@
 # Real World Application - Part A
 
 ## R1 Description of your website, including:
->
+-----------
 -Purpose
 -Functionality / features
 -Target audience
 -Tech stack
->
+-----------
 
 ## Purpose
 
 Studies into the increasing number of those with mental health concerns have shown a possible link between: 
 
------------
 - increased exposure of technology 
 and
 - a decrease in one's mental state.
