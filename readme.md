@@ -1,14 +1,12 @@
 # Real World Application - Part A
 
-<details>
-<summary>Description of your website, including:
+## R1 Description of your website, including:
 
 -Purpose
 -Functionality / features
 -Target audience
 -Tech stack
 
-</summary>
 ## Purpose
 
 Studies into the increasing number of those with mental health concerns have shown a possible link between: 
@@ -42,7 +40,8 @@ Node.js
 Express
 MongoDB
 Including the libraries:
-* - Mongoose
+* 
+- Mongoose
 - Atlas
 - Passport.js
 *
@@ -50,20 +49,19 @@ Including the libraries:
 #### The front end:
 React
 Including the libraries:
-* - React Hooks
+* 
+- React Hooks
 - React Router
 - Axios
 *
-</details>
 
 ## R2
 
 
 ---
+## R3 Application Architecture Diagram
 
-## R3
-
-
+!(Application Architecture Diagram)[https://github.com/Mark-Cooper-Janssen-Vooles/T3A2-A/blob/master/docs/Application%20Architecture%20(3).png?raw=true]
 ---
 
 ## R4
