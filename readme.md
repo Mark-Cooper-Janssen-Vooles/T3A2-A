@@ -37,7 +37,7 @@ This application will be written entirely in Javascript and divided into two dis
 - Express
 - MongoDB
 
-Including the libraries:
+Including the Main libraries:
 
 - Mongoose
 - Atlas
@@ -47,11 +47,16 @@ Including the libraries:
 
 - React
 
-Including the libraries:
+Including the Main libraries:
 
 - React Hooks
 - React Router
 - Axios
+- Redux
+- React Redux
+- Redux Thunk
+- Reactstrap
+- Possible more UI libraries to handle graphics
 
 ---
 
@@ -195,31 +200,31 @@ Wireframes for multiple standard screen sizes, created using industry standard s
 
 **Website Size**
 
-Landing: 
+Landing:
 ![Figma Wireframe](./docs/wireframes/website/01_landingPage.png "Figma Wireframe")
 
-Home: 
+Home:
 ![Figma Wireframe](./docs/wireframes/website/02_home.png "Figma Wireframe")
 
-Meditation App Popup: 
+Meditation App Popup:
 ![Figma Wireframe](./docs/wireframes/website/03_homeMeditationAppPopup.png "Figma Wireframe")
 
-Discover: 
+Discover:
 ![Figma Wireframe](./docs/wireframes/website/04_discover.png "Figma Wireframe")
 
-Discover - Specific Course: 
+Discover - Specific Course:
 ![Figma Wireframe](./docs/wireframes/website/05_discoverCoursePage.png "Figma Wireframe")
 
-My Profile - Stats: 
+My Profile - Stats:
 ![Figma Wireframe](./docs/wireframes/website/06_MyProfileStats.png "Figma Wireframe")
 
 My Profile - Journey:
 ![Figma Wireframe](./docs/wireframes/website/07_MyProfileJourney.png "Figma Wireframe")
 
-My Profile - Journey Popup: 
+My Profile - Journey Popup:
 ![Figma Wireframe](./docs/wireframes/website/08_MyProfileJourneyPopup.png "Figma Wireframe")
 
-MyProfile - Account: 
+MyProfile - Account:
 ![Figma Wireframe](./docs/wireframes/website/09_MyProfileAccount.png "Figma Wireframe")
 
 **iPad Size**
