@@ -23,8 +23,8 @@ Through habit-building and built-in personable reports tracking, *CMC Flow* will
 User registration
 A quiz for new students
 Meditation courses
-Tracking the user's progress
-User Rewards - Reward badges will unlock upon completion of courses, or hitting milestones
+Tracking the student's progress
+Student Rewards - Reward badges will unlock upon completion of courses, or hitting milestones
 
 ## Target Audience
 
