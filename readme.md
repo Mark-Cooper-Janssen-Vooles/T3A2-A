@@ -92,7 +92,17 @@ Including the libraries:
       <td>
         <ul>
           <li>
-            See options on the page to choose "beginner", "intermediate" or "expert"
+          Navigate to the discover page to choose meditation courses to start, i.e. “beginner”, “intermediate” or “expert”
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>As a user I want to continue where I left off from the previous meditation session</td>
+      <td>
+        <ul>
+          <li>
+            See options on the page to choose "resume"
           </li>
         </ul>
       </td>
@@ -148,6 +158,16 @@ Including the libraries:
           </li>
         </ul>
       </td>
+    </tr>
+    <tr>
+    <td>As a user I want to see stats based on my performance so far on time meditated, run-streak, sessions completed and last time meditated</td>
+    <td>
+      <ul>
+        <li>
+          See my awards / badges / achievements unlocked
+        </li>
+      </ul>
+    </td>
     </tr>
     <tr>
       <td>As a user I want to get a timer component for the meditation session</td>
