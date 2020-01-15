@@ -1,57 +1,68 @@
 # Real World Application - Part A
 
-## R1
+<details>
+<summary>Description of your website, including:
 
-Description of your website, including:
+-Purpose
+-Functionality / features
+-Target audience
+-Tech stack
 
-- Purpose
-- Functionality / features
-- Target audience
-- Tech stack
+</summary>
+## Purpose
 
-**Purpose**
+Studies into the increasing number of those with mental health concerns have shown a possible link between: 
 
-As we live in an increasingly information-driven age, our mental health is at an increased risk of deteriorating but through this information we have established a universal method of improving our mental state: meditation.
-The purpose of this application is to improve ones ability and consistency to meditatie through habit-building and tracking, utilising technology.
+-----------
+- increased exposure of technology 
+and
+- a decrease in one's mental state.
 
-**Functionality / Features**
+Through habit-building and built-in personable reports tracking, *CMC Flow* will assist people in beginning their journey into meditation which has proven positive effects on mental state.
 
-- User registration
-- Subscription service
-- A quiz to intake users information
-- Meditation courses
-- Tracking the users progress
-- A reward system where the user unlocks badges for completing courses or hitting milestones
+## Functionality / Features
 
-**Target Audience**
+User registration
+A quiz for new students
+Meditation courses
+Tracking the user's progress
+User Rewards - Reward badges will unlock upon completion of courses, or hitting milestones
 
-The target audience for this app is beginner meditators: anyone seeking a more guided way to meditate, including a way to track their progress.
+## Target Audience
 
-**Tech Stack**
+*CMC Flow* is targeted at people who have little to no experience in meditation but would like guidance and a metric to gauge effect.
 
-This application will be written entirely in Javascript and divided into two distinct sections:
+## Tech Stack
 
-**_The back end:_**
+This application will be written entirely in *Javascript* and divided into two distinct sections:
 
-- Node.js
-- Express
-- MongoDB
+#### The back end:
 
+Node.js
+Express
+MongoDB
 Including the libraries:
-
-- Mongoose
+* - Mongoose
 - Atlas
 - Passport.js
+*
 
-**_The front end:_**
-
-- React
-
+#### The front end:
+React
 Including the libraries:
-
-- React Hooks
+* - React Hooks
 - React Router
 - Axios
+*
+</details>
+
+## R2
+
+
+---
+
+## R3
+
 
 ---
 
