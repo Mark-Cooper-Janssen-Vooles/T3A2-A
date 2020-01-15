@@ -193,9 +193,50 @@ Including the libraries:
 
 Wireframes for multiple standard screen sizes, created using industry standard software
 
+**Website Size**
+
+Landing: 
+![Figma Wireframe](./docs/wireframes/website/01_landingPage.png "Figma Wireframe")
+
+Home: 
+![Figma Wireframe](./docs/wireframes/website/02_home.png "Figma Wireframe")
+
+Meditation App Popup: 
+![Figma Wireframe](./docs/wireframes/website/03_homeMeditationAppPopup.png "Figma Wireframe")
+
+Discover: 
+![Figma Wireframe](./docs/wireframes/website/04_discover.png "Figma Wireframe")
+
+Discover - Specific Course: 
+![Figma Wireframe](./docs/wireframes/website/05_discoverCoursePage.png "Figma Wireframe")
+
+My Profile - Stats: 
+![Figma Wireframe](./docs/wireframes/website/06_MyProfileStats.png "Figma Wireframe")
+
+My Profile - Journey:
+![Figma Wireframe](./docs/wireframes/website/07_MyProfileJourney.png "Figma Wireframe")
+
+My Profile - Journey Popup: 
+![Figma Wireframe](./docs/wireframes/website/08_MyProfileJourneyPopup.png "Figma Wireframe")
+
+MyProfile - Account: 
+![Figma Wireframe](./docs/wireframes/website/09_MyProfileAccount.png "Figma Wireframe")
+
+**iPad Size**
+
+==placeholder==
+
+**Mobile Size**
+
+==placeholder==
+
 ---
 
 ## R6
 
-![Trello Screenshot](./docs/trello1.png "Trello screenshot")
-![Trello Screenshot](./docs/trello2.png "Trello screenshot")
+![Trello Screenshot](./docs/trello/trello1.png "Trello screenshot")
+![Trello Screenshot](./docs/trello/trello2.png "Trello screenshot")
+![Trello Screenshot](./docs/trello/trello3.png "Trello screenshot")
+![Trello Screenshot](./docs/trello/trello4.png "Trello screenshot")
+![Trello Screenshot](./docs/trello/trello5.png "Trello screenshot")
+![Trello Screenshot](./docs/trello/trello6.png "Trello screenshot")
