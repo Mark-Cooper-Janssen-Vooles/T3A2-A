@@ -1,11 +1,12 @@
 # Real World Application - Part A
 
 ## R1 Description of your website, including:
-
+>
 -Purpose
 -Functionality / features
 -Target audience
 -Tech stack
+>
 
 ## Purpose
 
@@ -40,20 +41,19 @@ Node.js
 Express
 MongoDB
 Including the libraries:
-* 
-- Mongoose
-- Atlas
-- Passport.js
-*
+ 
+* - Mongoose
+* - Atlas
+* - Passport.js
+
 
 #### The front end:
 React
 Including the libraries:
-* 
-- React Hooks
-- React Router
-- Axios
-*
+ 
+* - React Hooks
+* - React Router
+* - Axios
 
 ## R2
 
@@ -61,7 +61,8 @@ Including the libraries:
 ---
 ## R3 Application Architecture Diagram
 
-!(Application Architecture Diagram)[https://github.com/Mark-Cooper-Janssen-Vooles/T3A2-A/blob/master/docs/Application%20Architecture%20(3).png?raw=true]
+![Application Architecture Diagram](https://github.com/Mark-Cooper-Janssen-Vooles/T3A2-A/blob/master/docs/Application%20Architecture%20(3).png?raw=true)
+
 ---
 
 ## R4
