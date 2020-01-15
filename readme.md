@@ -193,5 +193,6 @@ https://www.figma.com/file/nvMcT5zXiYqNB8qaKO6kKw/MeditationApp?node-id=1%3A2
 
 ## R6
 
-![Trello Screenshot](./docs/trello1.png "Trello screenshot")
-![Trello Screenshot](./docs/trello2.png "Trello screenshot")
+![Trello Screenshot](./docs/trello/trello1.png "Trello screenshot")
+![Trello Screenshot](./docs/trello/trello2.png "Trello screenshot")
+![Trello Screenshot](./docs/trello/trello3.png "Trello screenshot")
