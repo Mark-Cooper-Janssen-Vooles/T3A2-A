@@ -4,10 +4,11 @@
 
 -----------
 
--Purpose
--Functionality / features
--Target audience
--Tech stack
+- Purpose
+- Functionality / features
+- Target audience
+- Tech stack
+
 -----------
 
 
