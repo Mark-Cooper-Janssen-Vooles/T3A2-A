@@ -1,6 +1,7 @@
 # Real World Application - Part A
 
 ## R1 Description of your website, including:
+
 -----------
 -Purpose
 -Functionality / features
@@ -41,18 +42,18 @@ Express
 MongoDB
 Including the libraries:
  
-* - Mongoose
-* - Atlas
-* - Passport.js
+- *Mongoose*
+- *Atlas*
+- *Passport.js*
 
 
 #### The front end:
 React
 Including the libraries:
  
-* - React Hooks
-* - React Router
-* - Axios
+- *React Hooks*
+- *React Router*
+- *Axios*
 
 ## R2
 
