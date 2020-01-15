@@ -200,40 +200,84 @@ Wireframes for multiple standard screen sizes, created using industry standard s
 
 **Website Size**
 
-Landing:
+Landing: 
+
 ![Figma Wireframe](./docs/wireframes/website/01_landingPage.png "Figma Wireframe")
 
-Home:
+Home: 
+
 ![Figma Wireframe](./docs/wireframes/website/02_home.png "Figma Wireframe")
 
-Meditation App Popup:
+Meditation App Popup: 
+
 ![Figma Wireframe](./docs/wireframes/website/03_homeMeditationAppPopup.png "Figma Wireframe")
 
-Discover:
+Discover: 
+
 ![Figma Wireframe](./docs/wireframes/website/04_discover.png "Figma Wireframe")
 
-Discover - Specific Course:
+Discover - Specific Course: 
+
 ![Figma Wireframe](./docs/wireframes/website/05_discoverCoursePage.png "Figma Wireframe")
 
-My Profile - Stats:
+My Profile - Stats: 
+
 ![Figma Wireframe](./docs/wireframes/website/06_MyProfileStats.png "Figma Wireframe")
 
 My Profile - Journey:
+
 ![Figma Wireframe](./docs/wireframes/website/07_MyProfileJourney.png "Figma Wireframe")
 
-My Profile - Journey Popup:
+My Profile - Journey Popup: 
+
 ![Figma Wireframe](./docs/wireframes/website/08_MyProfileJourneyPopup.png "Figma Wireframe")
 
-MyProfile - Account:
+MyProfile - Account: 
+
 ![Figma Wireframe](./docs/wireframes/website/09_MyProfileAccount.png "Figma Wireframe")
 
 **iPad Size**
 
-==placeholder==
+Landing: 
+
+![Figma Wireframe](./docs/wireframes/ipad/01_LandingPage.png "Figma Wireframe")
+
+Home: 
+
+![Figma Wireframe](./docs/wireframes/ipad/02_home.png "Figma Wireframe")
+
+Meditation App Popup: 
+
+![Figma Wireframe](./docs/wireframes/ipad/03_homeMeditationApp_Popup.png "Figma Wireframe")
+
+Discover: 
+
+![Figma Wireframe](./docs/wireframes/ipad/04_Discover.png "Figma Wireframe")
+
+Discover - Specific Course: 
+
+![Figma Wireframe](./docs/wireframes/ipad/05_discoverCoursePage.png "Figma Wireframe")
+
+My Profile - Stats: 
+
+![Figma Wireframe](./docs/wireframes/ipad/06_MyProfileStats.png "Figma Wireframe")
+
+My Profile - Journey:
+
+![Figma Wireframe](./docs/wireframes/ipad/07_MyProfileJourney.png "Figma Wireframe")
+
+My Profile - Journey Popup: 
+
+![Figma Wireframe](./docs/wireframes/ipad/08_MyProfileJourneyPopup.png "Figma Wireframe")
+
+MyProfile - Account: 
+
+![Figma Wireframe](./docs/wireframes/ipad/09_MyProfileAccount.png "Figma Wireframe")
 
 **Mobile Size**
 
 ==placeholder==
+https://www.figma.com/file/nvMcT5zXiYqNB8qaKO6kKw/MeditationApp?node-id=9%3A12
 
 ---
 
@@ -245,3 +289,4 @@ MyProfile - Account:
 ![Trello Screenshot](./docs/trello/trello4.png "Trello screenshot")
 ![Trello Screenshot](./docs/trello/trello5.png "Trello screenshot")
 ![Trello Screenshot](./docs/trello/trello6.png "Trello screenshot")
+![Trello Screenshot](./docs/trello/trello7.png "Trello screenshot")
