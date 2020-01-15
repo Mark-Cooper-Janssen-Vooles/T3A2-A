@@ -230,3 +230,6 @@ MyProfile - Account:
 ![Trello Screenshot](./docs/trello/trello1.png "Trello screenshot")
 ![Trello Screenshot](./docs/trello/trello2.png "Trello screenshot")
 ![Trello Screenshot](./docs/trello/trello3.png "Trello screenshot")
+![Trello Screenshot](./docs/trello/trello4.png "Trello screenshot")
+![Trello Screenshot](./docs/trello/trello5.png "Trello screenshot")
+![Trello Screenshot](./docs/trello/trello6.png "Trello screenshot")
