@@ -63,17 +63,23 @@ Including the libraries:
       <th>Acceptance Criteria</th>
     </tr>
     <tr>
-      <td>As a user I want to register to login to the website</td>
+      <td>As a user I want to register or login to the website</td>
       <td>
         <ul>
            <li>
-            See a register page
+            See an authentication page
            </li>
            <li>
-            Able to go to login page and get a link to register page
+            Able to go to the authentication page and either login or register
            </li>
            <li>
-            Able to go to see invalid input on the registration page
+            Able see invalid input on the registration page
+           </li>
+           <li>
+            Able to seen invalid input when trying to log in
+           </li>
+           <li>
+           Have the option to authenticate by external providers like Facebook, Google
            </li>
            <li>
             Login to the app after registration
@@ -82,36 +88,36 @@ Including the libraries:
       </td>
     </tr>
     <tr>
-      <td>As a user I want to choose what type of account on signup for myself</td>
+      <td>As a user I want to choose what type of meditation to do from the dashboard</td>
       <td>
         <ul>
           <li>
-            See a radio button on which type of user I want to be
+            See options on the page to choose "beginner", "intermediate" or "expert"
           </li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>As a user I want to buy a holiday regardless if I am a vendor or not</td>
+      <td>As a user I want see a dashboard page</td>
       <td>
         <ul>
           <li>
-            See a catelogue of holidays
+            See a timeline of the type of meditation I have done
           </li>
           <li>
-            See a buy button
+            See a personalized message for motivation
           </li>
           <li>
-            click on buy button
+            click on button to start the meditation session
           </li>
           <li>
-            Get to a payment page to enter payment details
+            see a button to initiate an one time only donation
           </li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>As a user I want to see a payment confirmation page</td>
+      <td>As a user I want to see a donation confirmation page</td>
       <td>
         <ul>
           <li>
@@ -121,64 +127,45 @@ Including the libraries:
       </td>
     </tr>
     <tr>
-      <td>As a user I want to see past purchases</td>
+      <td>As a user I want to see past donations</td>
       <td>
         <ul>
           <li>
-            See a link on the navbar to go to the past payments
+            See a a component that lists the donations
           </li>
           <li>
-            on the past payment page, can see the time, the amount and the holiday ordered in a table form
+            On the donation component, can see the time, the amount and the details of the donations.
           </li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>As a vendor I want to add products to my listing of products</td>
+      <td>As a user I want to see an About page</td>
       <td>
         <ul>
           <li>
-            See a link on the navbar to add holiday
-          </li>
-          <li>
-            See a form to enter product/holiday details
-          </li>
-          <li>
-            Submit the form to see if it's successful or not depend on validation
+            See a description of the app
           </li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>As a vendor I want to view holidays in my listing</td>
+      <td>As a user I want to get a timer component for the meditation session</td>
       <td>
         <ul>
           <li>
-            See a link on the navbar to see all products/holidays
+            Be able to play, pause and resume the meditation
           </li>
           <li>
-            See the page with a picture, description, price and title of products
+            Get notified that a meditation is finished with a notification of audio
+          </li>
+          <li>
+            Repeat the meditation again or get redirected back to the dashboard to choose a new meditation session
           </li>
         </ul>
       </td>
     </tr>
-    <tr>
-      <td>As a vendor I want edit my listings</td>
-      <td>
-        <ul>
-          <li>
-            See a edit button on the listing page for a specific product
-          </li>
-          <li>
-            click on edit button to an edit form to edit the product
-          </li>
-          <li>
-            see a successful edit page afterwards
-          </li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+</table>
 
 ---
 
