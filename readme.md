@@ -69,6 +69,16 @@ Including the libraries:
 ## R3 Application Architecture Diagram
 
 ![Application Architecture Diagram](https://github.com/Mark-Cooper-Janssen-Vooles/T3A2-A/blob/master/docs/Application%20Architecture%20(3).png?raw=true)
+Including the Main libraries:
+
+- React Hooks
+- React Router
+- Axios
+- Redux
+- React Redux
+- Redux Thunk
+- Reactstrap
+- Possible more UI libraries to handle graphics
 
 ---
 
@@ -80,17 +90,23 @@ Including the libraries:
       <th>Acceptance Criteria</th>
     </tr>
     <tr>
-      <td>As a user I want to register to login to the website</td>
+      <td>As a user I want to register or login to the website</td>
       <td>
         <ul>
            <li>
-            See a register page
+            See an authentication page
            </li>
            <li>
-            Able to go to login page and get a link to register page
+            Able to go to the authentication page and either login or register
            </li>
            <li>
-            Able to go to see invalid input on the registration page
+            Able see invalid input on the registration page
+           </li>
+           <li>
+            Able to seen invalid input when trying to log in
+           </li>
+           <li>
+           Have the option to authenticate by external providers like Facebook, Google
            </li>
            <li>
             Login to the app after registration
@@ -99,36 +115,46 @@ Including the libraries:
       </td>
     </tr>
     <tr>
-      <td>As a user I want to choose what type of account on signup for myself</td>
+      <td>As a user I want to choose what type of meditation to do from the dashboard</td>
       <td>
         <ul>
           <li>
-            See a radio button on which type of user I want to be
+          Navigate to the discover page to choose meditation courses to start, i.e. “beginner”, “intermediate” or “expert”
           </li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>As a user I want to buy a holiday regardless if I am a vendor or not</td>
+      <td>As a user I want to continue where I left off from the previous meditation session</td>
       <td>
         <ul>
           <li>
-            See a catelogue of holidays
-          </li>
-          <li>
-            See a buy button
-          </li>
-          <li>
-            click on buy button
-          </li>
-          <li>
-            Get to a payment page to enter payment details
+            See options on the page to choose "resume"
           </li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>As a user I want to see a payment confirmation page</td>
+      <td>As a user I want see a dashboard page</td>
+      <td>
+        <ul>
+          <li>
+            See a timeline of the type of meditation I have done
+          </li>
+          <li>
+            See a personalized message for motivation
+          </li>
+          <li>
+            click on button to start the meditation session
+          </li>
+          <li>
+            see a button to initiate an one time only donation
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>As a user I want to see a donation confirmation page</td>
       <td>
         <ul>
           <li>
@@ -138,64 +164,55 @@ Including the libraries:
       </td>
     </tr>
     <tr>
-      <td>As a user I want to see past purchases</td>
+      <td>As a user I want to see past donations</td>
       <td>
         <ul>
           <li>
-            See a link on the navbar to go to the past payments
+            See a a component that lists the donations
           </li>
           <li>
-            on the past payment page, can see the time, the amount and the holiday ordered in a table form
+            On the donation component, can see the time, the amount and the details of the donations.
           </li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>As a vendor I want to add products to my listing of products</td>
+      <td>As a user I want to see an About page</td>
       <td>
         <ul>
           <li>
-            See a link on the navbar to add holiday
-          </li>
-          <li>
-            See a form to enter product/holiday details
-          </li>
-          <li>
-            Submit the form to see if it's successful or not depend on validation
+            See a description of the app
           </li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>As a vendor I want to view holidays in my listing</td>
-      <td>
-        <ul>
-          <li>
-            See a link on the navbar to see all products/holidays
-          </li>
-          <li>
-            See the page with a picture, description, price and title of products
-          </li>
-        </ul>
-      </td>
+    <td>As a user I want to see stats based on my performance so far on time meditated, run-streak, sessions completed and last time meditated</td>
+    <td>
+      <ul>
+        <li>
+          See my awards / badges / achievements unlocked
+        </li>
+      </ul>
+    </td>
     </tr>
     <tr>
-      <td>As a vendor I want edit my listings</td>
+      <td>As a user I want to get a timer component for the meditation session</td>
       <td>
         <ul>
           <li>
-            See a edit button on the listing page for a specific product
+            Be able to play, pause and resume the meditation
           </li>
           <li>
-            click on edit button to an edit form to edit the product
+            Get notified that a meditation is finished with a notification of audio
           </li>
           <li>
-            see a successful edit page afterwards
+            Repeat the meditation again or get redirected back to the dashboard to choose a new meditation session
           </li>
         </ul>
       </td>
     </tr>
-  </table>
+</table>
 
 ---
 
@@ -206,39 +223,83 @@ Wireframes for multiple standard screen sizes, created using industry standard s
 **Website Size**
 
 Landing: 
+
 ![Figma Wireframe](./docs/wireframes/website/01_landingPage.png "Figma Wireframe")
 
 Home: 
+
 ![Figma Wireframe](./docs/wireframes/website/02_home.png "Figma Wireframe")
 
 Meditation App Popup: 
+
 ![Figma Wireframe](./docs/wireframes/website/03_homeMeditationAppPopup.png "Figma Wireframe")
 
 Discover: 
+
 ![Figma Wireframe](./docs/wireframes/website/04_discover.png "Figma Wireframe")
 
 Discover - Specific Course: 
+
 ![Figma Wireframe](./docs/wireframes/website/05_discoverCoursePage.png "Figma Wireframe")
 
 My Profile - Stats: 
+
 ![Figma Wireframe](./docs/wireframes/website/06_MyProfileStats.png "Figma Wireframe")
 
 My Profile - Journey:
+
 ![Figma Wireframe](./docs/wireframes/website/07_MyProfileJourney.png "Figma Wireframe")
 
 My Profile - Journey Popup: 
+
 ![Figma Wireframe](./docs/wireframes/website/08_MyProfileJourneyPopup.png "Figma Wireframe")
 
 MyProfile - Account: 
+
 ![Figma Wireframe](./docs/wireframes/website/09_MyProfileAccount.png "Figma Wireframe")
 
 **iPad Size**
 
-==placeholder==
+Landing: 
+
+![Figma Wireframe](./docs/wireframes/ipad/01_LandingPage.png "Figma Wireframe")
+
+Home: 
+
+![Figma Wireframe](./docs/wireframes/ipad/02_home.png "Figma Wireframe")
+
+Meditation App Popup: 
+
+![Figma Wireframe](./docs/wireframes/ipad/03_homeMeditationApp_Popup.png "Figma Wireframe")
+
+Discover: 
+
+![Figma Wireframe](./docs/wireframes/ipad/04_Discover.png "Figma Wireframe")
+
+Discover - Specific Course: 
+
+![Figma Wireframe](./docs/wireframes/ipad/05_discoverCoursePage.png "Figma Wireframe")
+
+My Profile - Stats: 
+
+![Figma Wireframe](./docs/wireframes/ipad/06_MyProfileStats.png "Figma Wireframe")
+
+My Profile - Journey:
+
+![Figma Wireframe](./docs/wireframes/ipad/07_MyProfileJourney.png "Figma Wireframe")
+
+My Profile - Journey Popup: 
+
+![Figma Wireframe](./docs/wireframes/ipad/08_MyProfileJourneyPopup.png "Figma Wireframe")
+
+MyProfile - Account: 
+
+![Figma Wireframe](./docs/wireframes/ipad/09_MyProfileAccount.png "Figma Wireframe")
 
 **Mobile Size**
 
 ==placeholder==
+https://www.figma.com/file/nvMcT5zXiYqNB8qaKO6kKw/MeditationApp?node-id=9%3A12
 
 ---
 
@@ -250,3 +311,4 @@ MyProfile - Account:
 ![Trello Screenshot](./docs/trello/trello4.png "Trello screenshot")
 ![Trello Screenshot](./docs/trello/trello5.png "Trello screenshot")
 ![Trello Screenshot](./docs/trello/trello6.png "Trello screenshot")
+![Trello Screenshot](./docs/trello/trello7.png "Trello screenshot")
