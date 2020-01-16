@@ -52,6 +52,7 @@ Including the libraries:
 - React Hooks
 - React Router
 - Axios
+- Moment.js
 
 ---
 
@@ -186,6 +187,10 @@ Including the libraries:
 
 Wireframes for multiple standard screen sizes, created using industry standard software
 
+**Interactive Wireframes for website**
+
+==placeholder==
+
 **Website Size**
 
 Landing: 
@@ -264,8 +269,41 @@ MyProfile - Account:
 
 **Mobile Size**
 
-==placeholder==
-https://www.figma.com/file/nvMcT5zXiYqNB8qaKO6kKw/MeditationApp?node-id=9%3A12
+Landing: 
+
+![Figma Wireframe](./docs/wireframes/mobile/01_landingPage.png "Figma Wireframe")
+
+Home: 
+
+![Figma Wireframe](./docs/wireframes/mobile/02_home.png "Figma Wireframe")
+
+Meditation App Popup: 
+
+![Figma Wireframe](./docs/wireframes/mobile/03_homeMEditationAppPopup.png "Figma Wireframe")
+
+Discover: 
+
+![Figma Wireframe](./docs/wireframes/mobile/04_Discover.png "Figma Wireframe")
+
+Discover - Specific Course: 
+
+![Figma Wireframe](./docs/wireframes/mobile/05_discoverCoursePage.png "Figma Wireframe")
+
+My Profile - Stats: 
+
+![Figma Wireframe](./docs/wireframes/mobile/06_myProfileStats.png "Figma Wireframe")
+
+My Profile - Journey:
+
+![Figma Wireframe](./docs/wireframes/mobile/07_MyProfileJourney.png "Figma Wireframe")
+
+My Profile - Journey Popup: 
+
+![Figma Wireframe](./docs/wireframes/mobile/08_myProfileJourneyPopup.png "Figma Wireframe")
+
+MyProfile - Account: 
+
+![Figma Wireframe](./docs/wireframes/mobile/09_myProfileAccount.png "Figma Wireframe")
 
 ---
 
@@ -278,3 +316,4 @@ https://www.figma.com/file/nvMcT5zXiYqNB8qaKO6kKw/MeditationApp?node-id=9%3A12
 ![Trello Screenshot](./docs/trello/trello5.png "Trello screenshot")
 ![Trello Screenshot](./docs/trello/trello6.png "Trello screenshot")
 ![Trello Screenshot](./docs/trello/trello7.png "Trello screenshot")
+![Trello Screenshot](./docs/trello/trello8.png "Trello screenshot")
