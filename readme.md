@@ -2,29 +2,24 @@
 
 ## R1 Description of your website, including:
 
------------
+---
 
 - Purpose
 - Functionality / features
 - Target audience
 - Tech stack
 
------------
-
+---
 
 ## Purpose
 
-Studies into the increasing number of those with mental health concerns have shown a possible link between: 
+Studies into the increasing number of those with mental health concerns have shown a possible link between:
 
->>
-increased *exposure* to technology 
+1. Increased _exposure_ to technology
 
-                &
+2. Decrease in one's _mental state_.
 
-a *decrease* in one's *mental state*.
->>
-
-Through habit-building and built-in personable reports tracking, *CMCFlow* will assist people in beginning their journey into meditation which has proven positive effects on mental state.
+Through habit-building and built-in personable reports tracking, _CMCFlow_ will assist people in beginning their journey into meditation which has proven positive effects on mental state.
 
 ## Functionality / Features
 
@@ -36,11 +31,11 @@ Through habit-building and built-in personable reports tracking, *CMCFlow* will 
 
 ## Target Audience
 
-*CMCFlow* is targeted at people who have little to no experience in meditation but would like guidance and a metric to gauge effect.
+_CMCFlow_ is targeted at people who have little to no experience in meditation but would like guidance and a metric to gauge effect.
 
 ## Tech Stack
 
-This application will be written entirely in *Javascript* and divided into two distinct sections:
+This application will be written entirely in _Javascript_ and divided into two distinct sections:
 
 #### The back end:
 
@@ -48,27 +43,27 @@ Node.js
 Express
 MongoDB
 Including the libraries:
- 
-- *Mongoose*
-- *Atlas*
-- *Passport.js*
 
+- _Mongoose_
+- _Atlas_
+- _Passport.js_
 
 #### The front end:
+
 React
 Including the libraries:
- 
-- *React Hooks*
-- *React Router*
-- *Axios*
+
+- _React Hooks_
+- _React Router_
+- _Axios_
 
 ## R2
 
-
 ---
+
 ## R3 Application Architecture Diagram
 
-![Application Architecture Diagram](https://github.com/Mark-Cooper-Janssen-Vooles/T3A2-A/blob/master/docs/Application%20Architecture%20(3).png?raw=true)
+![Application Architecture Diagram](<https://github.com/Mark-Cooper-Janssen-Vooles/T3A2-A/blob/master/docs/Application%20Architecture%20(3).png?raw=true>)
 Including the Main libraries:
 
 - React Hooks
@@ -222,27 +217,27 @@ Wireframes for multiple standard screen sizes, created using industry standard s
 
 **Website Size**
 
-Landing: 
+Landing:
 
 ![Figma Wireframe](./docs/wireframes/website/01_landingPage.png "Figma Wireframe")
 
-Home: 
+Home:
 
 ![Figma Wireframe](./docs/wireframes/website/02_home.png "Figma Wireframe")
 
-Meditation App Popup: 
+Meditation App Popup:
 
 ![Figma Wireframe](./docs/wireframes/website/03_homeMeditationAppPopup.png "Figma Wireframe")
 
-Discover: 
+Discover:
 
 ![Figma Wireframe](./docs/wireframes/website/04_discover.png "Figma Wireframe")
 
-Discover - Specific Course: 
+Discover - Specific Course:
 
 ![Figma Wireframe](./docs/wireframes/website/05_discoverCoursePage.png "Figma Wireframe")
 
-My Profile - Stats: 
+My Profile - Stats:
 
 ![Figma Wireframe](./docs/wireframes/website/06_MyProfileStats.png "Figma Wireframe")
 
@@ -250,37 +245,37 @@ My Profile - Journey:
 
 ![Figma Wireframe](./docs/wireframes/website/07_MyProfileJourney.png "Figma Wireframe")
 
-My Profile - Journey Popup: 
+My Profile - Journey Popup:
 
 ![Figma Wireframe](./docs/wireframes/website/08_MyProfileJourneyPopup.png "Figma Wireframe")
 
-MyProfile - Account: 
+MyProfile - Account:
 
 ![Figma Wireframe](./docs/wireframes/website/09_MyProfileAccount.png "Figma Wireframe")
 
 **iPad Size**
 
-Landing: 
+Landing:
 
 ![Figma Wireframe](./docs/wireframes/ipad/01_LandingPage.png "Figma Wireframe")
 
-Home: 
+Home:
 
 ![Figma Wireframe](./docs/wireframes/ipad/02_home.png "Figma Wireframe")
 
-Meditation App Popup: 
+Meditation App Popup:
 
 ![Figma Wireframe](./docs/wireframes/ipad/03_homeMeditationApp_Popup.png "Figma Wireframe")
 
-Discover: 
+Discover:
 
 ![Figma Wireframe](./docs/wireframes/ipad/04_Discover.png "Figma Wireframe")
 
-Discover - Specific Course: 
+Discover - Specific Course:
 
 ![Figma Wireframe](./docs/wireframes/ipad/05_discoverCoursePage.png "Figma Wireframe")
 
-My Profile - Stats: 
+My Profile - Stats:
 
 ![Figma Wireframe](./docs/wireframes/ipad/06_MyProfileStats.png "Figma Wireframe")
 
@@ -288,11 +283,11 @@ My Profile - Journey:
 
 ![Figma Wireframe](./docs/wireframes/ipad/07_MyProfileJourney.png "Figma Wireframe")
 
-My Profile - Journey Popup: 
+My Profile - Journey Popup:
 
 ![Figma Wireframe](./docs/wireframes/ipad/08_MyProfileJourneyPopup.png "Figma Wireframe")
 
-MyProfile - Account: 
+MyProfile - Account:
 
 ![Figma Wireframe](./docs/wireframes/ipad/09_MyProfileAccount.png "Figma Wireframe")
 
