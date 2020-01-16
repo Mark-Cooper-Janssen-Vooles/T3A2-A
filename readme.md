@@ -16,8 +16,7 @@
 
 Studies into the increasing number of those with mental health concerns have shown a possible link between: 
 
-> - increased exposure of technology 
-> - a decrease in one's mental state.
+increased <u>exposure</u> to technology & a <u>decrease</u> in one's *mental state*.
 
 
 Through habit-building and built-in personable reports tracking, *CMCFlow* will assist people in beginning their journey into meditation which has proven positive effects on mental state.
