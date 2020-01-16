@@ -17,7 +17,9 @@
 Studies into the increasing number of those with mental health concerns have shown a possible link between: 
 
 >increased *exposure* to technology 
+
 >&
+
 >a *decrease* in one's *mental state*.
 
 
