@@ -85,7 +85,7 @@ Including the Main libraries:
       <th>Acceptance Criteria</th>
     </tr>
     <tr>
-      <td>As a user I want to register or login to the website</td>
+      <td>As a user I want to register or login to the website because I want to use the application</td>
       <td>
         <ul>
            <li>
@@ -110,7 +110,7 @@ Including the Main libraries:
       </td>
     </tr>
     <tr>
-      <td>As a user I want to choose what type of meditation to do from the dashboard</td>
+      <td>As a user I want to choose what type of meditation to do from the dashboard because I want the freedom to choose my course</td>
       <td>
         <ul>
           <li>
@@ -120,7 +120,7 @@ Including the Main libraries:
       </td>
     </tr>
     <tr>
-      <td>As a user I want to continue where I left off from the previous meditation session</td>
+      <td>As a user I want to continue where I left off from the previous meditation session because I can resume where I left off from the last session without extra navigation work</td>
       <td>
         <ul>
           <li>
@@ -130,7 +130,7 @@ Including the Main libraries:
       </td>
     </tr>
     <tr>
-      <td>As a user I want see a dashboard page</td>
+      <td>As a user I want see a dashboard page because I want a centralized location to visualize my profile, data, past achievements and do operations related to the application</td>
       <td>
         <ul>
           <li>
@@ -149,7 +149,7 @@ Including the Main libraries:
       </td>
     </tr>
     <tr>
-      <td>As a user I want to see a donation confirmation page</td>
+      <td>As a user I want to see a donation confirmation page because I want to know if a payment has gone through or not.</td>
       <td>
         <ul>
           <li>
@@ -159,7 +159,7 @@ Including the Main libraries:
       </td>
     </tr>
     <tr>
-      <td>As a user I want to see past donations</td>
+      <td>As a user I want to see past donations because I want to know the history of my contribution to the application</td>
       <td>
         <ul>
           <li>
@@ -172,7 +172,7 @@ Including the Main libraries:
       </td>
     </tr>
     <tr>
-      <td>As a user I want to see an About page</td>
+      <td>As a user I want to see an About page because I want to find out more about the app before registering.</td>
       <td>
         <ul>
           <li>
@@ -182,7 +182,7 @@ Including the Main libraries:
       </td>
     </tr>
     <tr>
-    <td>As a user I want to see stats based on my performance so far on time meditated, run-streak, sessions completed and last time meditated</td>
+    <td>As a user I want to see stats based on my performance so far on time meditated, run-streak, sessions completed and last time meditated because I want to know what I have achieved and at the same time stay motivated</td>
     <td>
       <ul>
         <li>
@@ -192,7 +192,7 @@ Including the Main libraries:
     </td>
     </tr>
     <tr>
-      <td>As a user I want to get a timer component for the meditation session</td>
+      <td>As a user I want to get a timer component for the meditation session because that's the basic feature of any meditation apps, I need to know when it finishes and if I need to pause or resume I can do it.</td>
       <td>
         <ul>
           <li>
