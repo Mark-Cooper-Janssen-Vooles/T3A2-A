@@ -56,29 +56,24 @@ Including the libraries:
 
 #### The front end:
 React
-Including the libraries:
+Including libraries:
  
 - *React Hooks*
 - *React Router*
 - *Axios*
+- *Redux*
+- *React Redux*
+- *Redux Thunk*
+- *Reactstrap*
+- *List may be updated depending on developments during production (Possible more UI libraries to handle graphics)*
 
-## R2
+## R2 DataFlow Diagram
 
 
 ---
 ## R3 Application Architecture Diagram
 
 ![Application Architecture Diagram](https://github.com/Mark-Cooper-Janssen-Vooles/T3A2-A/blob/master/docs/Application%20Architecture%20(3).png?raw=true)
-Including the Main libraries:
-
-- React Hooks
-- React Router
-- Axios
-- Redux
-- React Redux
-- Redux Thunk
-- Reactstrap
-- Possible more UI libraries to handle graphics
 
 ---
 
