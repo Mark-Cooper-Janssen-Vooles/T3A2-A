@@ -19,7 +19,7 @@ Studies into the increasing number of those with mental health concerns have sho
 >>
   - increased *exposure* to technology 
                 &
-  -a *decrease* in one's *mental state*.
+  - a *decrease* in one's *mental state*.
 >>
 
 Through habit-building and built-in personable reports tracking, *CMCFlow* will assist people in beginning their journey into meditation which has proven positive effects on mental state.
