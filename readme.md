@@ -1,52 +1,74 @@
 # Real World Application - Part A
 
-## R1
+## R1 Description of your website, including:
 
-Description of your website, including:
+-----------
 
 - Purpose
 - Functionality / features
 - Target audience
 - Tech stack
 
-**Purpose**
+-----------
 
-As we live in an increasingly information-driven age, our mental health is at an increased risk of deteriorating but through this information we have established a universal method of improving our mental state: meditation.
-The purpose of this application is to improve ones ability and consistency to meditatie through habit-building and tracking, utilising technology.
 
-**Functionality / Features**
+## Purpose
+
+Studies into the increasing number of those with mental health concerns have shown a possible link between: 
+
+>>
+increased *exposure* to technology 
+
+                &
+
+a *decrease* in one's *mental state*.
+>>
+
+Through habit-building and built-in personable reports tracking, *CMCFlow* will assist people in beginning their journey into meditation which has proven positive effects on mental state.
+
+## Functionality / Features
 
 - User registration
-- Subscription service
-- A quiz to intake users information
+- A quiz for new students
 - Meditation courses
-- Tracking the users progress
-- A reward system where the user unlocks badges for completing courses or hitting milestones
+- Tracking the student's progress
+- Student Rewards - Reward badges will unlock upon completion of courses, or hitting milestones
 
-**Target Audience**
+## Target Audience
 
-The target audience for this app is beginner meditators: anyone seeking a more guided way to meditate, including a way to track their progress.
+*CMCFlow* is targeted at people who have little to no experience in meditation but would like guidance and a metric to gauge effect.
 
-**Tech Stack**
+## Tech Stack
 
-This application will be written entirely in Javascript and divided into two distinct sections:
+This application will be written entirely in *Javascript* and divided into two distinct sections:
 
-**_The back end:_**
+#### The back end:
 
-- Node.js
-- Express
-- MongoDB
+Node.js
+Express
+MongoDB
+Including the libraries:
+ 
+- *Mongoose*
+- *Atlas*
+- *Passport.js*
 
-Including the Main libraries:
 
-- Mongoose
-- Atlas
-- Passport.js
+#### The front end:
+React
+Including the libraries:
+ 
+- *React Hooks*
+- *React Router*
+- *Axios*
 
-**_The front end:_**
+## R2
 
-- React
 
+---
+## R3 Application Architecture Diagram
+
+![Application Architecture Diagram](https://github.com/Mark-Cooper-Janssen-Vooles/T3A2-A/blob/master/docs/Application%20Architecture%20(3).png?raw=true)
 Including the Main libraries:
 
 - React Hooks
