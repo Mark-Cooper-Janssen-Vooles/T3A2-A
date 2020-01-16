@@ -17,10 +17,11 @@
 Studies into the increasing number of those with mental health concerns have shown a possible link between: 
 
 - increased exposure of technology 
+
 and
 - a decrease in one's mental state.
 
-Through habit-building and built-in personable reports tracking, *CMC Flow* will assist people in beginning their journey into meditation which has proven positive effects on mental state.
+Through habit-building and built-in personable reports tracking, *CMCFlow* will assist people in beginning their journey into meditation which has proven positive effects on mental state.
 
 ## Functionality / Features
 
@@ -32,7 +33,7 @@ Student Rewards - Reward badges will unlock upon completion of courses, or hitti
 
 ## Target Audience
 
-*CMC Flow* is targeted at people who have little to no experience in meditation but would like guidance and a metric to gauge effect.
+*CMCFlow* is targeted at people who have little to no experience in meditation but would like guidance and a metric to gauge effect.
 
 ## Tech Stack
 
