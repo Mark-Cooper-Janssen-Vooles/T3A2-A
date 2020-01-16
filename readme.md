@@ -28,11 +28,11 @@ Through habit-building and built-in personable reports tracking, *CMCFlow* will 
 
 ## Functionality / Features
 
-User registration
-A quiz for new students
-Meditation courses
-Tracking the student's progress
-Student Rewards - Reward badges will unlock upon completion of courses, or hitting milestones
+- User registration
+- A quiz for new students
+- Meditation courses
+- Tracking the student's progress
+- Student Rewards - Reward badges will unlock upon completion of courses, or hitting milestones
 
 ## Target Audience
 
