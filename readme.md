@@ -66,11 +66,12 @@ Including libraries:
 
 ## R2
 
+![DataFlow Diagram](./docs/CMCFlow DataFlow Diagram.png "DataFlow Diagram")
 ---
 
 ## R3 Application Architecture Diagram
 
-![Application Architecture Diagram](https://github.com/Mark-Cooper-Janssen-Vooles/T3A2-A/blob/master/docs/Application%20Architecture%20(3).png?raw=true)
+![Application Architecture Diagram](./docs/Application Architecture.png "Application Architecture")
 
 ---
 
