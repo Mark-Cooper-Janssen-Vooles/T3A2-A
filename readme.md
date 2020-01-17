@@ -218,45 +218,16 @@ Wireframes for multiple standard screen sizes, created using industry standard s
 
 **Interactive Wireframes for website**
 
-==placeholder==
+To view interactive wireframes showing relationships between screens, intended actions and content prioritisation:
+
+[Interactive Figma Wireframes](https://www.figma.com/proto/jMT92SwJQZLZzjR2GpOHlQ/MeditationApp_Interactive?node-id=1%3A78&scaling=min-zoom )
 
 **Website Size**
 
-Landing:
+![Figma Wireframe](./docs/wireframes/website/00_wholeApp.png "Figma Wireframe")
 
-![Figma Wireframe](./docs/wireframes/website/01_landingPage.png "Figma Wireframe")
+![Figma Wireframe](./docs/wireframes/website/00_wholeApp_withConnections.png "Figma Wireframe")
 
-Home:
-
-![Figma Wireframe](./docs/wireframes/website/02_home.png "Figma Wireframe")
-
-Meditation App Popup:
-
-![Figma Wireframe](./docs/wireframes/website/03_homeMeditationAppPopup.png "Figma Wireframe")
-
-Discover:
-
-![Figma Wireframe](./docs/wireframes/website/04_discover.png "Figma Wireframe")
-
-Discover - Specific Course:
-
-![Figma Wireframe](./docs/wireframes/website/05_discoverCoursePage.png "Figma Wireframe")
-
-My Profile - Stats:
-
-![Figma Wireframe](./docs/wireframes/website/06_MyProfileStats.png "Figma Wireframe")
-
-My Profile - Journey:
-
-![Figma Wireframe](./docs/wireframes/website/07_MyProfileJourney.png "Figma Wireframe")
-
-My Profile - Journey Popup:
-
-![Figma Wireframe](./docs/wireframes/website/08_MyProfileJourneyPopup.png "Figma Wireframe")
-
-MyProfile - Account:
-
-![Figma Wireframe](./docs/wireframes/website/09_MyProfileAccount.png "Figma Wireframe")
 
 **iPad Size**
 
@@ -346,3 +317,4 @@ MyProfile - Account:
 ![Trello Screenshot](./docs/trello/trello6.png "Trello screenshot")
 ![Trello Screenshot](./docs/trello/trello7.png "Trello screenshot")
 ![Trello Screenshot](./docs/trello/trello8.png "Trello screenshot")
+![Trello Screenshot](./docs/trello/trello9.png "Trello screenshot")
