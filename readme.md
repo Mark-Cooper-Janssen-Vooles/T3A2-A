@@ -64,8 +64,6 @@ Including libraries:
 
 ## R2 DataFlow Diagram
 
-## R2
-
 ![DataFlow Diagram](https://github.com/Mark-Cooper-Janssen-Vooles/T3A2-A/blob/master/docs/CMCFlow%20DataFlow%20Diagram.png?raw=true)
 ---
 
@@ -292,7 +290,7 @@ My Profile - Stats:
 
 My Profile - Journey:
 
-![Figma Wireframe](./docs/wireframes/mobile/07_MyProfileJourney.png "Figma Wireframe")
+![Figma Wireframe](./docs/wireframes/mobile/07_myProfileJourney.png "Figma Wireframe")
 
 My Profile - Journey Popup: 
 
@@ -317,3 +315,4 @@ MyProfile - Account:
 ![Trello Screenshot](./docs/trello/trello9.png "Trello screenshot")
 ![Trello Screenshot](./docs/trello/trello10.png "Trello screenshot")
 ![Trello Screenshot](./docs/trello/trello11.png "Trello screenshot")
+![Trello Screenshot](./docs/trello/trello12.png "Trello screenshot")
